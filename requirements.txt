@@ -4,3 +4,4 @@ pandas
 nltk
 pillow
 numpy
+openpyxl
